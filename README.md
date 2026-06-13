@@ -62,7 +62,7 @@ The system automatically analyzes volunteer skills and recommends suitable NGO a
 
 Generate compatibility scores for volunteers based on their skill sets.
 
-Example:
+**Example:**
 
 ```text
 Volunteer: Rahul
@@ -83,7 +83,7 @@ Match Score:
 
 Search volunteers by name and quickly retrieve matching records.
 
-Example:
+**Example:**
 
 ```text
 Enter Volunteer Name: Priya
@@ -95,7 +95,7 @@ Enter Volunteer Name: Priya
 
 Filter volunteers according to specific skills.
 
-Example:
+**Example:**
 
 ```text
 Enter Skill: Python
@@ -107,7 +107,7 @@ Enter Skill: Python
 
 Filter volunteers by city to identify location-specific volunteer pools.
 
-Example:
+**Example:**
 
 ```text
 Enter City: Bangalore
@@ -134,7 +134,7 @@ Generate valuable volunteer insights including:
 
 ### 📉 Data Visualization
 
-Visualize volunteer trends using charts generated with Matplotlib:
+Visualize volunteer trends using Matplotlib:
 
 * Activity Distribution Chart
 * City Distribution Chart
@@ -145,7 +145,7 @@ Visualize volunteer trends using charts generated with Matplotlib:
 
 Export processed volunteer data into CSV format for future reporting and analysis.
 
-Generated File:
+**Generated File:**
 
 ```text
 NayePankh_Volunteer_Report.csv
@@ -157,31 +157,31 @@ NayePankh_Volunteer_Report.csv
 
 ### Volunteer Dataset
 
-![Dataset](screenshots/dataset.png)
+<img src="screenshots/dataset.png" width="900">
 
 ### Recommendation Results
 
-![Recommendations](screenshots/recommendations.png)
+<img src="screenshots/recommendations.png" width="900">
 
 ### Search Functionality
 
-![Search](screenshots/search.png)
+<img src="screenshots/search.png" width="900">
 
 ### Skill Filtering
 
-![Filter](screenshots/filter.png)
+<img src="screenshots/filter.png" width="900">
 
 ### Analytics Dashboard
 
-![Analytics](screenshots/analytics.png)
+<img src="screenshots/analytics.png" width="900">
 
 ### Activity Distribution Chart
 
-![Activity Distribution](screenshots/activity_chart.png)
+<img src="screenshots/activity_chart.png" width="900">
 
 ### City Distribution Chart
 
-![City Distribution](screenshots/city_chart.png)
+<img src="screenshots/city_chart.png" width="900">
 
 ---
 
@@ -292,7 +292,7 @@ The system can provide:
 * Top recommended volunteers
 * Overall volunteer statistics
 
-These insights can help NGOs improve volunteer engagement and resource allocation.
+These insights help NGOs improve volunteer engagement and resource allocation through data-driven decision-making.
 
 ---
 
@@ -327,5 +327,9 @@ This project was developed as part of the internship selection process for NayeP
 ### Built with Python for Social Impact ❤️
 
 Helping NGOs connect the right volunteers with the right opportunities.
+
+<br>
+
+**Created by Sherlien Molly D**
 
 </div>
